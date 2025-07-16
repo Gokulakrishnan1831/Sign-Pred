@@ -17,8 +17,6 @@ This project provides a set of Jupyter Notebooks and resources for building, tra
 - **1. Image Collection.ipynb**: For gathering and organizing images for your dataset.
 - **2. Training and Detection.ipynb**: For training a custom object detection model and running inference.
 
-## Error Handling
-Refer to the `Error Guide.md` file for solutions to common issues encountered during setup and training.
 
 ## Notes
 - Ensure your images are properly annotated and split into training and testing sets.
